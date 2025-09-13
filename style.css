@@ -1,0 +1,35 @@
+.mother{width:380px;
+height:700px;
+background:linear-gradient(45deg, lightblue 50% ,#00bcd4 50%);border-radius:10px;
+margin-left:10px;
+; box-shadow:4px 3px 4px indigo;
+    
+    
+}
+
+.pic{width:100px;
+height:100px;
+margin-left:140px;
+border:4px solid white;
+    
+    
+}
+
+h2{text-align:center ; color:deeppink;
+text-decoration:underline ;
+    
+}
+
+.portfolio{}
+
+
+
+.links{ 
+    
+
+.h{padding-left:40px;}
+
+button{margin-left:50px; background-color:lightgreen;
+    
+    
+}
